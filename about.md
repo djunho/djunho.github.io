@@ -4,6 +4,7 @@ title: Sobre
 ---
 
 [Uma foto aqui! =P]
+![placeholder](https://djunho.github.io/imagens/perfil.jpeg "Cuidado!")
 <p class="message">
   Sempre quis fazer algo legal. Quem sabe começa por aqui! =D
 </p>
