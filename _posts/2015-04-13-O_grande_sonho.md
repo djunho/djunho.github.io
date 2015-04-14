@@ -12,8 +12,8 @@ O sonho de muitas pessoas é fazer algo grandioso e que seja duradouro. Não há
 
 O livro conta como o homem mais rico do Brasil, Jorge Paulo Lemann, junto com  Beto Sicupira e Marcel Telles, trilham seus caminhos juntos e buscam este sonho em comum. Uma gigante, a AB InBev já abocanhou grandes marcas como Heinz, Burguer King e Budweiser, além de já possuir o status de a maior cervejaria do mundo. Mas o livro mostra o que todos desconhecem, que não é apenas as aquisições dessas grandes marcas, mas todo o processo por quais esses sócios passaram. Através de muito trabalho e banhado na **meritocracia**, e controle de gastos que construíram seu império da AB InBev.
 
+>  “Sonhar pequeno dá o mesmo trabalho que sonhar grande. Então, por que não sonhar grande?” Livro "Sonho Grande"
+
 Um livro inspirador e facinante que mostra o caminho de pedras por qual estes sócios passaram, da qual pode ser a maior história de sucesso descrita no Brasil. Bem escrito e cheio de depoimentos, dá para ver que a autora deve ter corrido atrás de muita gente para conseguir algumas informações apresentadas. Recomendo! =)
 
 > "O melhor de tudo é que a história ainda não terminou, já que estes fanáticos nunca param de se perguntar, por mais que já tenham alcançados: ***o que vem a seguir?***" (Jim Collins, no prefácio do livro Sonho Grande)
-
->  “Sonhar pequeno dá o mesmo trabalho que sonhar grande. Então, por que não sonhar grande?” Livro "Sonho Grande"
