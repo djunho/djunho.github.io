@@ -22,6 +22,8 @@ author:
 
 paginate:         5
 
+comments: true
+
 # Custom vars
 version:          2.1.0
 
