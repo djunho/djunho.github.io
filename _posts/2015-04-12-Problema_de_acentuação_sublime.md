@@ -16,4 +16,4 @@ im-config
 Ao ser questinado **"Você quer selecionar explicitamente a configuração de usuário?"*** selecione **Sim**.
 Após, selecione a opção **none**, clique em OK e reinicie o computador.
 
-Esta foi a maneira que eliminei este problema grosseiro e importuno. Teclados, sempre um problema para a humanidade.
+Esta foi a maneira que eliminei este problema grosseiro e inoportuno. Teclados, sempre um problema para a humanidade.
