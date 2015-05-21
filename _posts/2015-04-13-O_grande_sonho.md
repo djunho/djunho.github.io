@@ -4,7 +4,7 @@ title: "Resenha: Sonho grande"
 tags: empreendedorismo, livro, sonho grande
 ---
 
-> "No final das contas, sou um professor.É assim que eu realmente me vejo" Jorge Paulo Lemann
+> "No final das contas, sou um professor. É assim que eu realmente me vejo" Jorge Paulo Lemann
 
 ![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/livro_sonho_grande.jpg?raw=true "Capa do livro")
 
