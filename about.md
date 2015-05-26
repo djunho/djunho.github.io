@@ -16,3 +16,7 @@ Sonhador, apesar de nunca se lembrar deles quando acorda.
 Trabalha na área de Sistemas Embarcados e assim quer se manter por um bom tempo, ou pelo menos até minha cabeça ter um overflow.
 
 Obrigado por ler!
+
+>Links legais:
+>
+>[Monografia do TCC](https://github.com/djunho/djunho.github.io/raw/master/Downloads/Monografia%20TCC.pdf "vish!")
