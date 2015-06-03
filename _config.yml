@@ -29,3 +29,19 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/djunho/djunho.github.io
+
+social-icons:
+- title: GitHub
+  url: https://github.com/djunho
+  class: github
+- title: LinkedIn
+  url: https://br.linkedin.com/pub/daniel-junho/24/7b7/249
+  class: linkedin
+- title: Twitter
+  url: https://twitter.com/djunho
+  class: twitter
+- title: Facebook
+  url: https://www.facebook.com/djunho
+  class: facebook
+
+

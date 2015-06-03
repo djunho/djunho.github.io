@@ -25,10 +25,20 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      <p></p>
 
+      {% for icon in site.social-icons %}
+        <a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}" target="_blank">
+          {% include {{ icon.class | prepend: 'social-icons/' | append: '.svg' }} %}
+          {% comment %}<span class="social-icon--title visuallyHidden">{{ icon.title }}</span>{% endcomment %}
+        </a>
+      {% endfor %}
+      
+      {% comment %}
       <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
+      {% endcomment %}
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
