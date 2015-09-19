@@ -179,6 +179,10 @@ pre code {
   background-color: transparent;
 }
 
+.placeholder {
+  align: center;
+}
+
 /* Pygments via Jekyll */
 .highlight {
   margin-bottom: 1rem;
