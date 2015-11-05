@@ -17,11 +17,7 @@
     {% include sidebar.html %}
 
     <div class="content container">
-      {% if content contains "<!-- more -->" %}
-        {{ content | split:"<!-- more -->" | first % }}
-      {% else %}
-        {{ content | strip_html | truncatewords:100 }}
-      {% endif %}
+      {{ content }}
     </div>
 
   </body>
