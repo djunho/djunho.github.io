@@ -106,11 +106,13 @@ Configure o ip da inteface de rede como __192.168.20.80__.
 Desligue o retorador. Antes de ligar coloque o scrit para rodar, ao ser questionado pelo ip insira __192,168.20.81__.
 Agora ligue o roteador com o botão de __reset__ pressionado, e fique com ele pressionado por uns 10 segundos.
 Ao conseguir abrir uma conexão, o __putty__ vai abrir com um terminal para inserção dos comandos.
+
 ```bash
 RedBoot>
 ```
 
 Agora insira os seguintes comandos:
+
 ```
 RedBoot> load ap61.ram
 Using default protocol (TFTP)
@@ -123,6 +125,7 @@ Mesmo que pareça que travou, não se preocupe. Apenas, não desligue o roteador
 Agora, desconecte o cabo do seu roteador. Reconfigure o ip da sua interface de rede para __192.168.1.2__. Depois, conecte o cabo ethernet na porta LAN1.
 
 Feche o Putty, e inicie novamente o script, colocando o IP __192.168.1.1__. O Puty deve abrir, com um bovo prompt
+
 ```bash
 DD-WRT>
 ```
