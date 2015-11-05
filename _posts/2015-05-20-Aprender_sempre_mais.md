@@ -8,6 +8,8 @@ tags: linux, aprender
 
 Sou do tipo que aprende muito no modo <i>hard core</i> da vida. Sou um eterno "fuçador", gosto de aprender de tudo um pouco, bicar de todos os rios de conhecimento, seja no gerenciamento de projetos, nas finanças, em linguagens de programação, esportes, tudo, de tudo um pouco. Mas, uma hora, temos que aprender algumas coisas de maneira mais aprofundada.
 
+<!-- more -->
+
 Sempre fui um entusiasta de software livre e Linux em geral, mas confesso que nunca, isso mesmo, nunca aprendi de fato as coisas sobre esse sistema. E mesmo mexendo com ele a alguns anos, só agora resolvi aprender a estrutura dele como um todo, desde comandos até o funcionamento do kernel. E deixo aqui um dos materiais que mais me agradou, o [Guia Foca](http://www.guiafoca.org/).
 
 ![placeholder](http://www.guiafoca.org/wp-content/themes/focalinux/images/style5/logo.png "Guia Foca")
