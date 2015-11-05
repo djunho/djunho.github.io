@@ -17,7 +17,12 @@ title: Home
     {% if post.content contains "<!-- more -->" %}
         {{ post.content | split:"<!-- more -->" | first % }}
     {% else %}
-       <p>{{ post.content | strip_html | truncatewords:100 }}</p>
+      {% assign wordCount = {{ post.content | size }} %}
+      {% if wordCount > 100 %}
+          <p>{{ post.content | strip_html | truncatewords:100 }}</p>
+      {% else %} 
+         {{ post.content }}
+      {% endif %}
     {% endif %}
 
     <span class="post-more"><p><a href="{{ post.url }}">Continue lendo...</a></p></span>
