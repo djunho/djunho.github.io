@@ -12,7 +12,9 @@ Bom, vou ser bem sucinto.
 
 Este post, mostra como "instalar" o DD-WRT no roteador DIR300 (revA) da D-LINK. (ou seja, todo o post é baseador apenas para esse roteador, não que isso impeça alguem de se basear nele para outros fins).
 
-E só para me garantir =P, EU NÃO SOU RESPONSAVEL POR QUAISQUER DANOS QUE ESSE TUTORIAL POSSA CAUSAR. Siga as instruções a seguir por sua própria conta, risco e coragem de libertar seu roteador.
+E só para me garantir =P, __EU NÃO SOU RESPONSAVEL POR QUAISQUER DANOS QUE ESSE TUTORIAL POSSA CAUSAR.__ Siga as instruções a seguir por sua própria conta, risco e coragem de libertar seu roteador.
+
+## Instalando um servidor FTP
 
 Para começar, é necessário instalar um servidor ftp em sua maquina, a qual vai prover os arquivos binários para o roteador. Para isso vamos instalar o __tftpd-hpa__, mas pode instalar qualquer um de sua preferência.
 
@@ -26,7 +28,7 @@ Para configurar o servidor, modifique o arquivo: __/etc/default/tftpd-hpa__
 vi /etc/default/tftpd-hpa
 ```
 
-modifique a linha em que se encontra ___TFTP_DIRECTORY___ para ___TFTP_DIRECTORY="/srv/tftp"___ para ficar de acordo como [FHS](http://www.pathname.com/fhs/)
+modifique a linha em que se encontra __TFT\_DIRECTORY__ para __TFTP\_DIRECTORY="/srv/tftp"__ para ficar de acordo como [FHS](http://www.pathname.com/fhs/)
 
 ```
 TFTP_USERNAME="tftp"
@@ -44,6 +46,7 @@ chmod -R 777 /srv/tftp
 ```
 
 Os comandos para inciar, parar e verificar o status são
+
 ```bash
 service tftpd-hpa start
 service tftpd-hpa stop
@@ -52,11 +55,13 @@ service tftpd-hpa status
 
 Pronto, servidor instalado e configurado! =D
 
+## Instalando o DD-WRT em seu DIR300
+
 Agora vamos instalar logo esse DD-WRT.
 
 Baixe os arquivos para instalar.
-```bash
 
+```bash
 cd /srv/tftp
 wget -c http://www.dd-wrt.com/routerdb/de/download/D-Link/DIR-300/A1/ap61.ram/3581
 wget -c http://www.dd-wrt.com/routerdb/de/download/D-Link/DIR-300/A1/ap61.rom/3580
@@ -68,11 +73,13 @@ Note que no passo anterior, colocamos os arquivos binários no diretório _root_
 Para facilitar vamos instalar o Putty, acredite, vai facilitar a vida. =)
 
 Vamos criar um _script bash_ para ajudar.
+
 ```bash
 sudo apt-get instal putty
 ```
 
 Vamos criar agora o script. Obtido do site. [oficial](http://www.dd-wrt.com/wiki/index.php/DIR300).
+
 ```bash
 #!/bin/bash
 echo
