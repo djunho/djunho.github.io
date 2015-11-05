@@ -16,7 +16,7 @@
 
     {% include sidebar.html %}
 
-    <div class="post-content-truncate">
+    <div class="content container">
       {% if content contains "<!-- more -->" %}
         {{ content | split:"<!-- more -->" | first % }}
       {% else %}
