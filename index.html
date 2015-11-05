@@ -19,6 +19,9 @@ title: Home
     {% else %}
        {{ post.content | strip_html | truncatewords:100 }}
     {% endif %}
+
+    <span class="post-more"><a href="{{ post.url }}">Continue lendo...</a></span>
+
   </div>
   {% endfor %}
 </div>
