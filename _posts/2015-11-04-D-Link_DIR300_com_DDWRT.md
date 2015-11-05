@@ -6,17 +6,19 @@ tags: D-LINK, DIR300, DD-WRT, ddwrt, tutorial
 
 Fala galera, ando meio sem tempo para postar. Ainda mais essa semana em que participarei do evento da Intel, o Intel IoT Roadshow. No próximo post comento sobre o evento.
 
-Bom, dando vida nova a um roteador antigo aqui de casa, vou mostrar como instalar o DD-WRT nele. DD-WRT, é um firmware baseado em linux (yeaah =P) para roteadores wireless. Ou seja, é um firmware alternativo para diversos modelos de roteadores, para diversos fabricantes.
+Bom, dando vida nova a um roteador antigo aqui de casa, vou mostrar como instalar o DD-WRT nele. Apenas para contextualizar, DD-WRT é um firmware baseado em linux (yeaah =P) para roteadores wireless. Ou seja, é um firmware alternativo para diversos modelos de roteadores, para diversos fabricantes.
+
+<!-- more -->
 
 Bom, vou ser bem sucinto.
 
-Este post, mostra como "instalar" o DD-WRT no roteador DIR300 (revA) da D-LINK. (ou seja, todo o post é baseador apenas para esse roteador, não que isso impeça alguem de se basear nele para outros fins).
+Este post, mostra como "instalar" o DD-WRT no roteador DIR300 (revA) da D-LINK. (ou seja, todo o post é baseador apenas para esse roteador, não que isso impeça alguém de se basear nele para outros fins).
 
 E só para me garantir =P, __EU NÃO SOU RESPONSAVEL POR QUAISQUER DANOS QUE ESSE TUTORIAL POSSA CAUSAR.__ Siga as instruções a seguir por sua própria conta, risco e coragem de libertar seu roteador.
 
 ## Instalando um servidor FTP
 
-Para começar, é necessário instalar um servidor ftp em sua maquina, a qual vai prover os arquivos binários para o roteador. Para isso vamos instalar o __tftpd-hpa__, mas pode instalar qualquer um de sua preferência.
+Para começar, é necessário instalar um servidor ftp em sua máquina, a qual vai prover os arquivos binários para o roteador. Para isso vamos instalar o __tftpd-hpa__, mas pode instalar qualquer um de sua preferência.
 
 ```bash
 sudo apt-get instal tftpd-hpa
@@ -37,7 +39,7 @@ TFTP_ADDRESS="0.0.0.0:69"
 TFTP_OPTIONS="--secure --create"
 ```
 
-Agora crie (se certifique) que a pasta que indicamos como diretório do servidor.
+Agora crie (se certifique que) a pasta que indicamos como diretório do servidor.
 
 ```bash
 mkdir /srv/tftp
@@ -45,7 +47,7 @@ chown -R ttftp /srv/tftp
 chmod -R 777 /srv/tftp
 ```
 
-Os comandos para inciar, parar e verificar o status são
+Os comandos para inciar, parar e verificar o status são:
 
 ```bash
 service tftpd-hpa start
