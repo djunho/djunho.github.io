@@ -17,10 +17,10 @@ title: Home
     {% if post.content contains "<!-- more -->" %}
         {{ post.content | split:"<!-- more -->" | first % }}
     {% else %}
-       {{ post.content | strip_html | truncatewords:100 }}
+       <p>{{ post.content | strip_html | truncatewords:100 }}</p>
     {% endif %}
 
-    <span class="post-more"><a href="{{ post.url }}">Continue lendo...</a></span>
+    <span class="post-more"><p><a href="{{ post.url }}">Continue lendo...</a></p></span>
 
   </div>
   {% endfor %}
