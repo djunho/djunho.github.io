@@ -17,10 +17,10 @@
     {% include sidebar.html %}
 
     <div class="post-content-truncate">
-      {% if post.content contains "<!-- more -->" %}
-        {{ post.content | split:"<!-- more -->" | first % }}
+      {% if content contains "<!-- more -->" %}
+        {{ content | split:"<!-- more -->" | first % }}
       {% else %}
-        {{ post.content | strip_html | truncatewords:100 }}
+        {{ content | strip_html | truncatewords:100 }}
       {% endif %}
     </div>
 

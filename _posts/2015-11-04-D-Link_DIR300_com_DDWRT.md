@@ -101,7 +101,7 @@ do
 done
 ```
 
-Agora, vamos ao que interessa! _finally_! Para instalar, conecte o cabo ethernet a porta WAN do roteador.
+Agora, vamos ao que interessa! _Finally_! Para instalar, conecte o cabo ethernet a porta WAN do roteador.
 
 Configure o ip da inteface de rede como __192.168.20.80__.
 
@@ -132,7 +132,7 @@ Feche o Putty, e inicie novamente o script, colocando o IP __192.168.1.1__. O Pu
 DD-WRT>
 ```
 
-Agora, não desligue, nem desconecte o cabo de rede. Estes passos são muito importantes e não podem ser interrompidos.
+Agora, não desligue, nem desconecte o cabo de rede! Estes passos são muito importantes e não podem ser interrompidos.
 
 ```bash
 DD-WRT> fis init
@@ -220,5 +220,6 @@ DD-WRT> fconfig bootp_my_gateway_ip 0.0.0.0
 DD-WRT> reset
 ```
 
-Acredite ou não, depois disso tudo, é possível acessar a pagina de configuração do roteador. Pode ligar, desligar, tacar na parece, agora, ele já esta como o DD-WRT. Parabéns, vocÊ conseguiu.
+Acredite ou não, depois disso tudo, é possível acessar a página de configuração do roteador. Pode ligar, desligar, tacar na parede, agora, ele já esta como o DD-WRT. Parabéns, você conseguiu! =D
+
 Abra um navegador e acesse __192.168.1.1__ e tcharan! Esta lá.
