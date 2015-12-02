@@ -24,11 +24,11 @@ Depois disso, fomos para os projetos! A ideia era montar grupos, ou individualme
 
 Tinham projetos muito bacanas lá. Cito aqui alguns bacanas que eu tive mais contato (com o pessoal do [LHC](http://lhc.net.br/)). Um dos projetos, que com certeza, fez muito sucesso, foi o [capacitor de fluxo](), do [Pedro Minatel](http://pedrominatel.com.br/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aL9bbDC4g2Q?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/aL9bbDC4g2Q?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Outro, que fico muito bacana, foi o [carro controlado por movimentos da mão](http://www.instructables.com/id/Intro-Rover-IoT/), desenvolvidos pelo [Douglas Esteves](https://twitter.com/_DouglasEsteves) com o [Gilvan Vieira](https://www.instagram.com/gilvanvieira_/).
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/oH9FI-nCTfo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/oH9FI-nCTfo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Ao final, a galera que organizou o evento fez entrevistas com as equipes para mostrar os projetos, assim que eles disponibilizarem coloco o link aqui.
 
