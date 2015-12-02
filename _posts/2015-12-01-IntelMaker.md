@@ -8,7 +8,6 @@ Pois é galera, nos dias 5 e 6 de novembro deste ano (vulgo 2015) ocorreu uma ed
 
 O evento ocorreu em São Paulo, na Faculdade Insper, local muito bacana e que proporcionou um ambiente muito bom para o evento, com paredes que são inteiras em quadro branco, restaurante e até um FabLab (sim, isso mesmo).
 
-[foto]
 ![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2015-11-25-IntelMaker/1.jpg "Instagram @djunho")
 
 <!-- more -->
