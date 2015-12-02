@@ -4,7 +4,7 @@ title: "#IntelMaker"
 tags: IoT, Intel, Edison, RoadShow
 ---
 
-Pois é galera, nos dias 5 e 6 de novembro deste ano (vulgo 2015) ocorreu uma edição do Intel IoT RoadShow, o qual eu tive o prazer de participar. Foi algo insano com muita gente louca, maker, fazedores, cientistas, gente de todos os cantos, com váááários projetos bacanas!
+Pois é galera, nos dias 5 e 6 de novembro deste ano (vulgo 2015) ocorreu uma edição do Intel IoT RoadShow, o qual eu tive o prazer de participar. Foi algo insano com muita gente louca, _makers_, fazedores, cientistas, gente de todos os cantos, com váááários projetos bacanas!
 
 O evento ocorreu em São Paulo, na Faculdade Insper, local muito bacana e que proporcionou um ambiente muito bom para o evento, com paredes que são inteiras em quadro branco, restaurante e até um FabLab (sim, isso mesmo).
 
@@ -16,7 +16,7 @@ Logo na chegada, já retiramos o kit com, nada mais nada mesmo que, uma [Intel E
 
 ![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2015-11-25-IntelMaker/2.jpg "O grande kit")
 
-Depois de recebido o kit do evento, foram apresentados 4 palestras rápidas para ajudar a galera. A primeira foi da própria Intel, falando um pouco sobre o Intel Edison, arquitetura, interface, SO, entre outras coisas. A segunda foi com o pessoal do portal Embarcados, que falou um pouco de linux embedded. A terceira do Amazon sobre seus serviços de _cloud_ o [AWS](https://aws.amazon.com). E a última do Microsoft, sobre o [Azure](www.microsoft.com/Azure), serviço de _cloud_ da microsoft.
+Depois de recebido o kit do evento, foram apresentadas 4 palestras rápidas para ajudar a galera. A primeira foi da própria Intel, falando um pouco sobre o Intel Edison, arquitetura, interface, SO, entre outras coisas. A segunda foi com o pessoal do portal Embarcados, que falou um pouco de linux embedded. A terceira do Amazon sobre seus serviços de _cloud_ o [AWS](https://aws.amazon.com). E a última do Microsoft, sobre o [Azure](www.microsoft.com/Azure), serviço de _cloud_ deles.
 
 Depois disso, fomos para os projetos! A ideia era montar grupos, ou individualmente, e realizar projetos com a Edison. Nisso se foram o restante do dia 6, e o dia 7 inteiro (fora a madrugada, mas isso em _off_!).
 
