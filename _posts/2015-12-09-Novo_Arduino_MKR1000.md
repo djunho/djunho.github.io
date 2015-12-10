@@ -10,7 +10,7 @@ Na onda da internet das coisas (IoT), a <s>Arduino</s>, digo, Genuino [lançou](
 
 ![placeholder](https://atmelcorporation.files.wordpress.com/2015/12/mkr1000_web-1.jpg?w=603&h=398)
 
-<!--more-->
+<!-- more -->
 
 O novo Arduino [MKR1000](https://www.arduino.cc/en/Main/ArduinoMKR1000), é na verdade um "junta tudo" do Arduino Zero com um shield Wi-Fi, em um tamanho reduzido.
 
