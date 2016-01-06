@@ -44,7 +44,7 @@ social-icons:
   url: https://www.facebook.com/djunho
   class: facebook
 - title: Feed
-  url: https://danieljunho.com/atom.xml
+  url: http://danieljunho.com/atom.xml
   class: rss-feed
 
 gems:
