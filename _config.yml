@@ -44,4 +44,6 @@ social-icons:
   url: https://www.facebook.com/djunho
   class: facebook
 
+gems:
+  - jekyll-feed
 
