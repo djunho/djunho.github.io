@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -46,4 +46,5 @@ social-icons:
 
 gems:
   - jekyll-feed
+  - jekyll-paginate
 
