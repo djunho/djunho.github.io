@@ -13,7 +13,7 @@ Gosta de cinema, musica, tecnologia e de aventuras, uma combinação perigosa no
 
 Sonhador, apesar de nunca se lembrar deles quando acorda.
 
-Trabalha na área de Sistemas Embarcados e assim quer se manter por um bom tempo, ou pelo menos até minha cabeça ter um overflow.
+Trabalha na área de Sistemas Embarcados e assim quer se manter por um bom tempo, ou pelo menos até ter um overflow.
 
 Obrigado por ler!
 

@@ -4,14 +4,11 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Daniel Junho
 tagline:          ''
 description:      'Um novo projeto dentro de tantas ideias.'
-
-#description:      'Um novo projeto dentro de tantas ideias <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 
 url:              http://djunho.github.io/
 baseurl:          /
