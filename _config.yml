@@ -15,8 +15,8 @@ baseurl:          /
 
 author:
   name:           'Daniel Junho'
- email:           djunho@gmail.com
-   url:           http://danieljunho.com
+  email:          djunho@gmail.com
+  url:            http://danieljunho.com
 
 paginate:         5
 
