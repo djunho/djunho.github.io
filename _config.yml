@@ -10,12 +10,13 @@ title:            Daniel Junho
 tagline:          ''
 description:      'Um novo projeto dentro de tantas ideias.'
 
-url:              http://djunho.github.io/
+url:              http://danieljunho.com
 baseurl:          /
 
 author:
   name:           'Daniel Junho'
-#  url:            https://twitter.com/djunho
+ email:           djunho@gmail.com
+   url:           http://danieljunho.com
 
 paginate:         5
 
