@@ -8,7 +8,7 @@ Já faz um tempo que toda vez que tenho que usar a IDE do arduino tenho que rod�
 
 Então, procurei uma forma de solucionar esse problema. Praticamente, todas as pessoas que encontrei na internet resolveram o problema da seguinte maneira. Adicionando o usuário que utilizam no grupo de usuários que controlam o dispositivo de conexão com o Arduino.
 
-```
+```bash
 sudo usermod -a -G dialout $USER
 
 ```
@@ -19,7 +19,7 @@ Mas na minha máquina não funcionou. Então vamos entender o problema e encontr
 
 Dei uma olhada e percebi que no meu sistema não existe o usuário "dialout". Para identificar o grupo de usuários que você deve se adicionar use o comando __ls__ sobre os dispositivos que vai acessar, ou seja as portas seriais (pasta /dev), e veja quais grupos tem acessos a esses dispositivos.
 
-```
+```bash
 $ ls -l /dev/tty*
 ...
 crw-rw---- 1 root   uucp 188,  0 jun 25 20:48 /dev/ttyUSB0
