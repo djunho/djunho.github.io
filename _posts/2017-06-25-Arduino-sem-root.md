@@ -26,7 +26,7 @@ crw-rw---- 1 root   uucp 188,  0 jun 25 20:48 /dev/ttyUSB0
 ...
 
 ```
-A quarta coluna no resultado do comando é o grupo de usuários com acesso a esse dspositivo. Normalmente as placas de arduino ficam sempre nos dispositivos __/dev/ttyUSB!*__ ou __/dev/ttyACM!*__. 
+A quarta coluna no resultado do comando é o grupo de usuários com acesso a esse dspositivo. Normalmente as placas de arduino ficam sempre nos dispositivos __/dev/ttyUSB\*__ ou __/dev/ttyACM\*__. 
 
 Assim, insira o grupo correto no comando, reinicie o login para ter efeito e seja feliz.
 
