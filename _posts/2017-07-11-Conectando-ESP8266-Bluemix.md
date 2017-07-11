@@ -90,7 +90,7 @@ Figura 5 - Library Manager do Arduino
 
 Segue o código. Modifique as variáveis necessárias para conectar-se na rede Wifi, e para conectar-se na cloud.
  
-```C	
+{% highlight C %}	
 //__ Aplicação de exemplo do artigo do embarcados
 // Conecta-se a uma rede wifi, conecta-se na cloud da IBM via MQTT e envia dados
 //
@@ -185,7 +185,7 @@ void loop() {
   //__ Faz o envio a cada 10 segundos.
   delay(10000);
 }
-```
+{% endhighlight %}
  
 Enviando os dados para a Cloud
 -------------------------------
