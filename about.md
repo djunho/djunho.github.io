@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sobre
+sidebar_link: true
 ---
 
 ![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/perfil.jpg?raw=true "Cuidado!")

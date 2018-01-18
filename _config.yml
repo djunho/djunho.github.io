@@ -2,31 +2,46 @@
 markdown:         kramdown
 highlighter:      rouge
 
-# Permalinks
-permalink:        pretty
-
 # Setup
 title:            Daniel Junho
 tagline:          ''
 description:      'Um novo projeto dentro de tantas ideias.'
-
 url:              http://danieljunho.com
-baseurl:          /
+baseurl:          # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
 
 author:
   name:           'Daniel Junho'
-  email:          djunho@gmail.com
   url:            http://danieljunho.com
 
 paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
 
-comments: true
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
 
 # Custom vars
-version:          2.1.0
-
+#version:            3.5.3
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
 github:
-  repo:           https://github.com/djunho/djunho.github.io
+  repo:             https://github.com/djunho/djunho.github.io
+
+disqus:
+  shortname: djunho
+
+linkedin_username: djunho
+
+google_analytics: UA-62461815-1
 
 social-icons:
 - title: GitHub
@@ -35,17 +50,3 @@ social-icons:
 - title: LinkedIn
   url: https://br.linkedin.com/pub/daniel-junho/24/7b7/249
   class: linkedin
-- title: Twitter
-  url: https://twitter.com/djunho
-  class: twitter
-- title: Facebook
-  url: https://www.facebook.com/djunho
-  class: facebook
-- title: Feed
-  url: http://danieljunho.com/atom.xml
-  class: rss-feed
-
-gems:
-  - jekyll-feed
-  - jekyll-paginate
-
