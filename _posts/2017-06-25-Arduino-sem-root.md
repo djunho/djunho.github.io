@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Usando a IDE do Arduino sem root"
-tags: arduino, IDE, root
+tags: 
+  - Arduino
+  - IDE
+  - Root
 ---
 
 Já faz um tempo que toda vez que tenho que usar a IDE do arduino tenho que rodá-la como _root_ e isso tem me incomodado um pouco. Isso porque a IDE realiza acesso as portas seriais para carregar as aplicações nas placas. Mas se eu rodar a IDE como _root_ onde está a segurança nisso? Qualquer coisa pode acontecer com um sistema quando rodar um programa como _root_.

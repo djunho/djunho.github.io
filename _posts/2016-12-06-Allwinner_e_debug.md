@@ -1,7 +1,14 @@
 ---
 layout: post
 title: "Allwinner e seu código de debug"
-tags: Debug, segurança, noob, kernel, allwinner, backdoor, teste
+tags: 
+  - Debug
+  - Segurança
+  - Noob
+  - Kernel
+  - Allwinner
+  - Backdoor
+  - Teste
 ---
 
 Sabe aqueles códigos que inserimos nos projetos apenas para debug? Aqueles que você coloca temporariamente para ficar mais fácil testar algumas funções, para conseguir fazer algumas coisas de maneira mais rápida e testar. Pois então, o **grande** problema é quando esquecemos de apagar esses códigos e eles vão para produção.

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Aprender sempre mais"
-tags: linux, aprender
+tags:
+  - Linux
+  - Aprender
 ---
 
 ![placeholder](http://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png "Pinguim")

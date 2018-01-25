@@ -1,7 +1,13 @@
 ---
 layout: post
 title: "Genuino Day!: O evento e minha palestra"
-tags: Arduino, Genuino, Arduino day, Genuino day, evento, palestra
+tags: 
+  - Arduino
+  - Genuino
+  - Arduino day
+  - Genuino day
+  - Evento
+  - Palestra
 ---
 
 Todos os anos, _maker_, entusiastas e profissionais da eletrônica e da computação em geral, se reunem para compartilhar conhecimento em torno do evento [Arduino Day](https://day.arduino.cc/#/), agora chamado de Genuino Day. Criado com o propósito de difundir a marca no dia do seu aniversário, hoje o evento é um difusor da cultura _maker_, do faça você mesmo, e da eletrônica e computação. O evento estimula as pessoas atráves de palestras, conversas, demonstração de projetos, partilhando suas experiências, tudo de maneira aberta ao público e de forma colaborativa, estimulando-os a aprender e soltar sua imaginação nos projetos.

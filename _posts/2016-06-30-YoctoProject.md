@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Yocto Project"
-tags: Linux, embarcados, yocto
+tags:
+  - Linux
+  - Embarcados
+  - Yocto
 ---
 
 Recentemente comecei a trabalhar em um projeto com linux embarcado, e diante da necessidade de melhorar o consumo, foi necessário tentar otimizar o linux que rodava, para tentar reduzir todos os processos e todas os programas e aplicaçãoes que rodam desnecessariamente nesse projeto consumindo processador e por sua vez, consumo de energia.

@@ -1,7 +1,11 @@
 ---
 layout: post
 title: "#IntelMaker"
-tags: IoT, Intel, Edison, RoadShow
+tags: 
+  - IoT
+  - Intel
+  - Edison
+  - RoadShow
 ---
 
 Pois é galera, nos dias 5 e 6 de novembro deste ano (vulgo 2015) ocorreu uma edição do Intel IoT RoadShow, o qual eu tive o prazer de participar. Foi algo insano com muita gente louca, _makers_, fazedores, cientistas, gente de todos os cantos, com váááários projetos bacanas!

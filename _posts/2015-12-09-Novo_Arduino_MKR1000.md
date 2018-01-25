@@ -1,7 +1,11 @@
 ---
 layout: post
 title: "Novo Arduino: MKT1000"
-tags: IoT, Arduino, Concurso, Atmel
+tags:
+  - IoT
+  - Arduino
+  - Concurso
+  - Atmel
 ---
 
 Na onda da internet das coisas (IoT), a <s>Arduino</s>, digo, Genuino [lançou](http://blog.atmel.com/2015/12/09/the-arduino-mkr1000-rolls-the-zero-and-wi-fi-shield-all-into-one/) uma nova placa e com ela um novidade para seu lançamento.

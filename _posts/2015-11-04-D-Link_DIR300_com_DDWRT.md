@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "Instalando o DD-WRT em um D-Link DIR300 revA"
-tags: D-LINK, DIR300, DD-WRT, ddwrt, tutorial
+tags: 
+  - D-LINK
+  - DIR300
+  - DD-WRT
+  - ddwrt
+  - Tutorial
 ---
 
 Fala galera, ando meio sem tempo para postar. Ainda mais essa semana em que participarei do evento da Intel, o Intel IoT Roadshow. No próximo post comento sobre o evento.

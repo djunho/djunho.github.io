@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Resenha: Sonho grande"
-tags: empreendedorismo, livro, sonho grande
+tags: 
+  - Empreendedorismo
+  - Livro
+  - Sonho Grande
 ---
 
 > "No final das contas, sou um professor. É assim que eu realmente me vejo" Jorge Paulo Lemann

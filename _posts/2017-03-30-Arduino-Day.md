@@ -1,7 +1,11 @@
 ---
 layout: post
 title: "Arduino Day 2017"
-tags: Arduino, Arduino Day, Evento, São Carlos
+tags: 
+  - Arduino
+  - Arduino Day
+  - Evento
+  - São Carlos
 ---
 
 No dia 01 de Abril irá ocorrer no mundo todo o Arduino Day. Evento mundial voltado para a cultura maker. 

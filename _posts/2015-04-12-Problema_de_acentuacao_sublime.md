@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Problema de acentos no Sublime Text"
-tags: Sublime Text
+tags: 
+  - Sublime Text
 ---
 
 Esta semana me deparei com um pequeno problema. O meu editor de texto, <s>(o incrível)</s> Sublime Text parou de escrever acentos, deixando **ã**, **é**, e **ó** como **~a**, **'e** e **'o**.

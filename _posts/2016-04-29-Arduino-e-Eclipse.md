@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "Onde o Arduino se encontra com o Eclipse IDE"
-tags: Arduino, Genuino, IDE, Eclipse, plugin
+tags: 
+  - Arduino
+  - Genuino
+  - IDE
+  - Eclipse
+  - Plugin
 ---
 
 Como um bom engenheiro, gosto muito de "fuçar" nas coisas para entender como elas funcionam. Pelo menos eu tento e muitas vezes eu falho. Perdi a conta de quantos brinquedos que abri e nunca mais funcionaram da mesma forma. Tento entender as coisas de sistemas embarcados, placas, componentes, software, pessoas, comportamento, empresas, etc. Com o arduino isso nao é diferente.

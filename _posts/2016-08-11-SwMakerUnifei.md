@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "Startup Weekend Maker Unifei"
-tags: Evento, hacker, maker, unifei, CEU
+tags: 
+  - Evento
+  - Hacker
+  - Maker
+  - Unifei
+  - CEU
 ---
 
 Pois é, mais um evento. Depois de participar do Maker Hacklab deste ano, venho convidar a todos para mais um evento do pessoal do [CEU](http://www.ceu.unifei.edu.br/), o Startup Weekend Maker, o único SW até então que é voltado exclusivamente para o movimento maker.

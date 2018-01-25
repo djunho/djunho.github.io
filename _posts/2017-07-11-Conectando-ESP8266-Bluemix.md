@@ -1,10 +1,15 @@
 ---
 layout: post
 title: "Conectando o ESP8266 no IBM Bluemix IoT"
-tags: arduino, Embarcados, Bluemix, IoT, ESP8266
+tags: 
+  - Arduino
+  - Embarcados
+  - Bluemix
+  - IoT
+  - ESP8266
 ---
 
-Hoje saiu meu [primeiro artigo](https://www.embarcados.com.br/conectando-o-esp8266-no-bluemix-iot/) no [portal Embarcados](https://www.embarcados.com.br/). Que fantástico *_*
+Hoje saiu meu [primeiro artigo](https://www.embarcados.com.br/conectando-o-esp8266-no-bluemix-iot/) no [portal Embarcados](https://www.embarcados.com.br/). Que fantástico \*_\*
 
 Um artigo bem simples, mostrando um passo a passo para os iniciantes de como conectar o ESP8266 (ou qualquer outra placa se você abstrair) na plataforma da IBM, o Bluemix. Coloco-o aqui na integra. O original se encontra [aqui](https://www.embarcados.com.br/conectando-o-esp8266-no-bluemix-iot/).
 

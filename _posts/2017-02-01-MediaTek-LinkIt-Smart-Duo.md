@@ -1,7 +1,16 @@
 ---
 layout: post
 title: "MediaTek LinkIt Smart 7688 - Review"
-tags: MediaTek, LinkIt, 7688, Arduino, OpenWrt, wifi, review, revisão, Atmel
+tags: 
+  - MediaTek
+  - LinkIt
+  - "7688"
+  - Arduino
+  - OpenWrt
+  - Wifi
+  - Review
+  - Revisão
+  - Atmel
 ---
 
 E o ano começou agitado. Agora tenho em mãos a [MediaTek LinkIt™ Smart 7688](https://labs.mediatek.com/en/platform/linkit-smart-7688), uma beleza!

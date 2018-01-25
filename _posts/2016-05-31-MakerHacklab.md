@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "Maker Hacklab"
-tags: Evento, hacker, maker, unifei, CEU
+tags: 
+  - Evento
+  - Hacker
+  - Maker
+  - Unifei
+  - CEU
 ---
 
 Nos finais de semana de 14-15 e 21-22 de maio, ocorreu o [Maker Hacklab](http://makerhacklab.com.br/). Evento, o qual, tive o prazer de participar e conhecer muita gente boa. Uma maratona de negócios em Internet das Coisas, a proposta era de desenvolver, em 2 finais de semana, negócios envolvendo a integração de hardware e software na nuvem.
