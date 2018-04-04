@@ -24,7 +24,7 @@ Mãos à obra.
 Algumas aplicações são necessárias para realizar todo o processo de compilação. Na prática, você nem vai ver essas aplicação sendo utilizadas, o makefile cuida disso pra você ;)
 
 ```bash
-sudo apt-get install vim libncurses5-dev gcc make git exuberant-ctags libssl-dev
+sudo apt-get install vim libncurses5-dev gcc make git exuberant-ctags libssl-dev bison flex
 ```
 
 ## Baixando o código do kernel
