@@ -70,6 +70,7 @@ Caso queira fazer alguma alteração a mais, execute ```make menuconfig```.
 ## Economizando tempo
 
 O kernel é composto por diversos módulos e partes que podem nem ao menos estar sendo utilizadas na sua máquina. Afinal, nunca se sabe quando você irá conectar algum equipamento, por qualquer que seja, tanto algo antigo como um _floppy disk_, quanto algo de última geração como uma placa de vídeo externa de vários gigabytes. Assim, para economizar um tempo nessa atividade você pode "dizer" que quer compilar apenas os mesmos módulos que seu computador está usando nesse momento. Para isso execute o comando a seguir. 
+
 **Atenção: caso execute isso, e depois ao estar utilizando o kernel que você compilou, algumas coisa podem não funcionar quando você às conectar em seu computador. Então, use apenas esse comando caso queria explicitamente essa configuração. Ao final, mostro como retirar essa versão do kernel voltando a versão que você estava utilizando anteriormente.**
 
 
