@@ -24,8 +24,8 @@ Então o primeiro passo foi resolver as partes que estavam esfarelando. Na inter
 
 Dei uma lixada para remover a sujeira. Ao final, pintei de preto fosco. Usei, no total, 1,5 latas de spray.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-08-03-Tunando-meu-som/pintando.jpg "Lixada e pintada")
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-08-03-Tunando-meu-som/pintando2.jpg "Lixada e pintada")
+![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-08-03-Tunando-meu-som/pintando.jpeg "Lixada e pintada")
+![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-08-03-Tunando-meu-som/pintando2.jpeg "Lixada e pintada")
 
 # Ligando o som
 
