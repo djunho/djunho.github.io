@@ -21,7 +21,7 @@ Depois de pesquisar um pouco, encontrei como fazer isso. Descrevi abaixo a fórm
 
 Em UNIX timestamp, é um contador de segundos que começa na data de **01/01/1970 à 00:00:00**. Exemplo, o número 1 representa "01/01/1970 00:00:01".
 
-O timestamp usado pelo LibreOffice, segundo algumas informações encontradas no [forums](https://forum.openoffice.org/en/forum/viewtopic.php?f=13&t=606) e na sua configuração, o valor default começa em **30/12/1899 às 00:00:00**. E é representado de forma que a parte inteira é o número de dias, e a parte que vem depois da vírgula representa o horário. Exemplo, o número ``'1,25``` representa "31/12/1899 06:00:00".
+O timestamp usado pelo LibreOffice, segundo algumas informações encontradas no [forums](https://forum.openoffice.org/en/forum/viewtopic.php?f=13&t=606) e na sua configuração, o valor default começa em **30/12/1899 às 00:00:00**. E é representado de forma que a parte inteira é o número de dias, e a parte que vem depois da vírgula representa o horário. Exemplo, o número ```1,25``` representa "31/12/1899 06:00:00".
 
 # A conversão
 
