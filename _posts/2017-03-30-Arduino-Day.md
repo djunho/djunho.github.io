@@ -10,7 +10,7 @@ tags:
 
 No dia 01 de Abril irá ocorrer no mundo todo o Arduino Day. Evento mundial voltado para a cultura maker. 
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-03-30-Arduino-Day/banner.jpg "Banner")
+![placeholder](/assets/images/2017-03-30-Arduino-Day/banner.jpg "Banner")
 
 <!-- more -->
 
@@ -21,7 +21,7 @@ Durante a manhã serão oferecidos mini-cursos para as pessoas que se inscrevere
 
 Veja aqui o cronograma das palestras que acontecerão a tarde.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-03-30-Arduino-Day/cronograma.jpeg "Cronograma")
+![placeholder](/assets/images/2017-03-30-Arduino-Day/cronograma.jpeg "Cronograma")
 
 Venham participar.
 

@@ -19,7 +19,7 @@ Um artigo bem simples, mostrando um passo a passo para os iniciantes de como con
 
 # Conectando o ESP8266 no Bluemix IoT
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/inicial.png "IBM Bluemix com o ESP8266")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/inicial.png "IBM Bluemix com o ESP8266")
 
 Muitos já sabem que é possível usar o ESP8266 como um microcontrolador, utilizando-o no lugar do Arduino. Com essa possibilidade fica muito mais fácil realizar diversos projetos de maneira mais simples. Um ESP8266 conectado direto ao sensor e enviando dados para a nuvem, facilita muito os projetos mais simples que tentam abocanhar um pouco dessa grande área que é a internet das coisas (IoT).
 
@@ -60,25 +60,25 @@ Primeiro, é preciso criar e configurar uma aplicação na plataforma bluemix pa
 
 Você irá se deparar com uma página similar a apresentada na Figura 1.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/1.png "Dashboard da plataforma Bluemix")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/1.png "Dashboard da plataforma Bluemix")
 Figura 1 - Dashboard da plataforma Bluemix
 
 Dentro da categoria “Apps”, busque por “Internet of Things Platform Starter”. Criaremos uma instância desse aplicativo na cloud.
 
 Dê um nome a nosso aplicativo, e finalize a criação do App clicando em “Create”. Esta aplicação nos criará uma interface com Node-Red, a qual utilizaremos para receber e tratar os dados dos sensores recebidos. No meu caso, dei o nome de “ESP8266-IoT-Embarcados”.
  
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/2.png "Criando uma aplicação (Internet of Things Platform Starter) no Bluemix")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/2.png "Criando uma aplicação (Internet of Things Platform Starter) no Bluemix")
 Figura 2 - Criando uma aplicação no Bluemix
 
 Após isso, a aplicação será inicializada. O processo de inicialização da aplicação pode levar alguns minutos.
 
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/3.png "Iniciando o serviço na plataforma.")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/3.png "Iniciando o serviço na plataforma.")
 Figura 3 - Iniciando o serviço na plataforma.
 
 Após isso, acesse a página criada para sua aplicação. No meu caso [este link](https://esp8266-iot-embarcados.mybluemix.net/). Esta página é para a criação de sua aplicação Node-Red. Ao acessá-la pela primeira vez, você terá que configurá-la com um usuário e senha, fato que fortemente recomendo, pois a página é pública e aberta a toda a internet. Depois disso, você poderá acessar o editor e criar sua aplicação. Um pequeno exemplo é criado quando começamos, mostrado na Figura 4.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/4.png "Aplicação NodeRed")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/4.png "Aplicação NodeRed")
 Figura 4 - Aplicação NodeRed
  
 Aplicação embarcada
@@ -90,7 +90,7 @@ Basicamente, a conexão com a cloud é feita com [MQTT](https://www.embarcados.c
 
 Para o funcionamento do código é necessário adicionar a biblioteca “PubSubClient” em Library Manager.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/5.png "Library Manager do Arduino")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/5.png "Library Manager do Arduino")
 Figura 5 - Library Manager do Arduino
 
 Segue o código. Modifique as variáveis necessárias para conectar-se na rede Wifi, e para conectar-se na cloud.
@@ -206,7 +206,7 @@ Para isso, modifique o _define ORG_ para __quickstart__ na aplicação do ESP826
 
 Depois de carregada sua aplicação no ESP8266, verifique se o mesmo se conectou na sua rede WIFI, observando os dados sendo impressos pela serial. Assim que conectado, o dispositivo passará a enviar os dados para a nuvem. Para validar os dados que chegam na cloud acesse [esta página](https://quickstart.internetofthings.ibmcloud.com/) e insira o nome que o dispositivo se registra na cloud, nome definido no *define DEVICE_ID*. Os dados recebidos então serão apresentados na página.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/6.png "Página de quickstart de dispositivos conectados")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/6.png "Página de quickstart de dispositivos conectados")
 Figura 6 - Página de quickstart de dispositivos conectados
 
 Envio dos dados de modo privado
@@ -216,22 +216,22 @@ Depois de validada a conexão entre o _device_ e a _cloud_, vamos migrar os dado
 
 Para isso, acesse o serviço de internet das coisas, um dos serviços criados juntos com nossa aplicação.
   
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/7.png "Serviços rodando na plataforma.")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/7.png "Serviços rodando na plataforma.")
 Figura 7 - Serviços rodando na plataforma.
 
 Depois entre na dashboard para adicionar e gerenciar os dispositivos.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/8.png "Dashboard de dispositivos")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/8.png "Dashboard de dispositivos")
 Figura 8 - Dashboard de dispositivos
 
 Dentro dessa dashboard, selecione no menu a opção dispositivos, e depois clique no botão “Incluir dispositivo”.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/9.png "Cadastro de dispositivos.")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/9.png "Cadastro de dispositivos.")
 Figura 9 - Cadastro de dispositivos.
 
 Como não existe nenhum tipo de dispositivo ainda, teremos que criar um tipo para a nossa rede. Dessa forma, clique “Criar tipo de dispositivo”, depois clique novamente em “Criar tipo de dispositivo”, e dê um nome a ele.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/10.png "Cadastro de tipo de dispositivo")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/10.png "Cadastro de tipo de dispositivo")
 Figura 10 - Cadastro de tipo de dispositivo
 
 Depois, uma página onde serão apresentados alguns atributos para vincular ao tipo de dispositivo aparecerá. Essas opções são opcionais, adicione-as conforme for o contexto da sua aplicação.
@@ -242,14 +242,14 @@ No final da criação, seremos questionados sobre o token de autenticação. Sug
 
 Ao final da criação do dispositivo teremos um resumo, onde as informações necessárias para conexão do dispositivo com a cloud são fornecidas. Copie e guarde bem essas informações.
  
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/11.png "Resumo de informações do dispositivo.")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/11.png "Resumo de informações do dispositivo.")
 Figura 11 - Resumo de informações do dispositivo.
 
 Agora, copie a informação do “ID da organização” e substitua no valor do define ORG na aplicação embarcada. Depois faça o mesmo com a informação de “token de autenticação” no *define TOKEN*. Depois, com a informação “Tipo de Dispositivo” no *define DEVICE_TYPE*. E por último, a informação “ID do dispositivo” no *define DEVICE_ID*.
 
 Depois carregue a aplicação na placa. Feito isso, e depois de conectada, veremos na dashboard uma indicação que o dispositivo está conectado e enviando dados.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/12.png "Status de conexão do dispositivo.")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/12.png "Status de conexão do dispositivo.")
 Figura 12 - Status de conexão do dispositivo.
  
 Voltemos a nossa aplicação no NodeRed
@@ -259,14 +259,14 @@ A aplicação presente ainda é um exemplo obtido quando criada. Iremos removê-
 
 Na imagem abaixo temos a nossa aplicação NodeRed já formatada para a utilização em forma privada. Para usá-la, basta importar o código para sua aplicação. Para isso, acesse menu > Import > Clipboard e insira o código.
  
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/13.png "Importando aplicação para o NodeRed.")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/13.png "Importando aplicação para o NodeRed.")
 Figura 13 - Importando aplicação para o NodeRed.
 
 Depois de importada, clique em “deploy” e então a aplicação já estará funcional. A aplicação contém alguns comentários explicando seu funcionamento.
 
 Caso queira mudar a aplicação para receber os dados de forma pública, modifique o nó “IBM IoT App In” clicando duas vezes sobre ele para abrir suas configurações. Modifique o campo “Authentication” para “Quickstart” e insira o “Device Type” e o “Device Id” configurados em seu dispositivo.
  
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-07-11-Conectando-Bluemix-ESP8266/14.png "Aplicação final de NodeRed.")
+![placeholder](/assets/images/2017-07-11-Conectando-Bluemix-ESP8266/14.png "Aplicação final de NodeRed.")
 Figura 14 - Aplicação final de NodeRed.
 
 Para aprender um pouco mais sobre nodered, acesse o [site oficial](https://nodered.org/). É interessante que com essa aplicação em nodeRed podemos realizar diversas análises sobre os dados recebidos e desencadear ações sobre os sistemas implementados de forma visual. Para os mais hardcore ainda se pode inserir códigos em node.js, unindo o útil ao agradável. Uma ferramenta simples e prática que acelera o desenvolvimento de uma aplicação.

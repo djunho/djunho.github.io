@@ -11,11 +11,11 @@ Faz um tempo que possuo uma impressora 3D como hobby aqui em casa. Apesar de nã
 
 Por exemplo esse suporte de livros com HD velho, bem legal.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-02-27-Impressora3D-Dicas-alinhamento/suporte-livros.jpg "Suporte de livros bonitão")
+![placeholder](/assets/images/2018-02-27-Impressora3D-Dicas-alinhamento/suporte-livros.jpg "Suporte de livros bonitão")
 
 Ou ainda, esses bonecos bem bacanas.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-02-27-Impressora3D-Dicas-alinhamento/bonecos.jpg "O astronauta da Tesla e o boxeados de mãos grandes")
+![placeholder](/assets/images/2018-02-27-Impressora3D-Dicas-alinhamento/bonecos.jpg "O astronauta da Tesla e o boxeados de mãos grandes")
 
 Mas meu principal desafio toda vez é calibrar e ajustar ela para imprimir novamente. Então vou compartilhar uma dica valiosa com vocês e facilitar esse processo.
 
@@ -25,7 +25,7 @@ Essa dica recebi de um amigo, e tem me ajudado bastante nas últimas impressões
 
 O objetivo é fazer o alinhamento da mesa em relação ao bico. Para isso vamos deixar o bico a uma distância ~~quase~~ igual da mesa nas extremidades onde existe ajuste da mesa. Nesse processo, no meu caso eu dou um HOME (X, Y e Z). Depois ergo o bico (Z) e movo a mesa para as extremidades. Depois de posicionada eu volto o Z para 0. Entre o bico e a mesa eu coloco 2 cartões de visita juntos. E ajusto a mesa para deixar a distância entre ela e o bico exatamente a distância da espessura dos dois cartões juntos, deixando os cartões deslizando facilmente entre a mesa e o bico. Repito esse processo para os quatro cantos da mesa. Feito isso, partiu impressão. No meu caso, tem sempre funcionado.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-02-27-Impressora3D-Dicas-alinhamento/posicoes.jpg "Exemplo das posições para alinhamento da mesa")
+![placeholder](/assets/images/2018-02-27-Impressora3D-Dicas-alinhamento/posicoes.jpg "Exemplo das posições para alinhamento da mesa")
 
 Muito provavelmente a distância entre o bico e a mesa vai variar para cada impressora, mas não costuma ser muito diferente disso.
 

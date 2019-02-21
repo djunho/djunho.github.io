@@ -19,7 +19,7 @@ Este "brinquedo" possui um processador MT7688AN ([datasheet](https://labs.mediat
 
 Seu único porém, que eu identifiquei até agora, é a falta de bluetooth.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-02-01-MediaTek-LinkIt-Smart-Duo/mediatek-linkit-smart-duo.jpg "A placa!")
+![placeholder](/assets/images/2017-02-01-MediaTek-LinkIt-Smart-Duo/mediatek-linkit-smart-duo.jpg "A placa!")
 
 <!-- more -->
 
@@ -27,13 +27,13 @@ O fato de ter dois processadores na mesma placa permite aplicações bem interes
 
 A versão [Duo](https://www.seeedstudio.com/LinkIt-Smart-7688-Duo-p-2574.html) custa $15,90, e a versão [normal](https://www.seeedstudio.com/LinkIt-Smart-7688-p-2573.html) custa $12,90 (valores conferidos em 01/03/2017). Pois é, como muitos já sabem, os micros da Atmel de AVR atualmente são bem [caros](http://www.digikey.com/products/en/integrated-circuits-ics/embedded-microcontrollers/685?k=ATmega32U4), principalmente o ATmega, o que justifica bem essa diferença de preço.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-02-01-MediaTek-LinkIt-Smart-Duo/linkit7688_detalhes.jpg "Visão geral sobre a placa.")
+![placeholder](/assets/images/2017-02-01-MediaTek-LinkIt-Smart-Duo/linkit7688_detalhes.jpg "Visão geral sobre a placa.")
 
 Ele já vem com uma GUI pronta, para quando se conectar já configurá-lo. Então quando começar, conecte-se na rede que ele cria e configure-o usando o próprio navegador em [http://mylinkit.local](http://mylinkit.local). A partir daí, é correr para o abraço. Use as ferramentas padrões para acessá-lo, como ssh, ou via serial e pronto, tem acesso a usar tudo que precisa.
 
 Veja o mapa de pinos da versão [Duo](https://labs.mediatek.com/en/download/GHkUS0qj). Para ver a versão normal, [clique aqui](https://labs.mediatek.com/en/download/189LRncF).
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2017-02-01-MediaTek-LinkIt-Smart-Duo/duo-pinout.jpg "Mapa de pinos da versão \"duo\".")
+![placeholder](/assets/images/2017-02-01-MediaTek-LinkIt-Smart-Duo/duo-pinout.jpg "Mapa de pinos da versão \"duo\".")
 
 A própria página da [mediatek](https://docs.labs.mediatek.com/resource/linkit-smart-7688/en) tem uns tutoriais para você aproveitar com bastante documentação, que vem crescendo a cada dia, e também existe um [forum](https://forum.labs.mediatek.com/en/) para dúvidas.
 

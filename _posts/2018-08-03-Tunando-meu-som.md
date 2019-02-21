@@ -25,8 +25,8 @@ Então o primeiro passo foi resolver as partes que estavam esfarelando. Na inter
 
 Dei uma lixada para remover a sujeira. Ao final, pintei de preto fosco. Usei, no total, 1,5 latas de spray.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-08-03-Tunando-meu-som/pintando.jpeg "Lixada e pintada")
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-08-03-Tunando-meu-som/pintando2.jpeg "Lixada e pintada")
+![placeholder](/assets/images/2018-08-03-Tunando-meu-som/pintando.jpeg "Lixada e pintada")
+![placeholder](/assets/images/2018-08-03-Tunando-meu-som/pintando2.jpeg "Lixada e pintada")
 
 # Ligando o som
 
@@ -42,11 +42,11 @@ Para isso, dei uma pesquisada em várias formas e circuitos para fazer isso. No 
 
 O circuito é bem simples. Usando um microfone de eletreto, que varia sua resistência conforme o som, o circuito abre ou fecha uma "chave" para ligar a fita de leds.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-08-03-Tunando-meu-som/schematic.png "Esquematico do circuito dos leds")
+![placeholder](/assets/images/2018-08-03-Tunando-meu-som/schematic.png "Esquematico do circuito dos leds")
 
 Depois de montado, ficou assim:
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-08-03-Tunando-meu-som/circuito-montado.jpg "Circuito dos leds")
+![placeholder](/assets/images/2018-08-03-Tunando-meu-som/circuito-montado.jpg "Circuito dos leds")
 
 # Juntando as partes
 
@@ -54,10 +54,10 @@ Para alimentar o circuito dos leds e a placa bluetooth comprei uma fonte de 12V.
 
 Fixei a fonte com um parafuso, e as placas com cola quente. Depois, coloquei as fitas de leds em volta da caixa. Veja as fotos abaixo.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-08-03-Tunando-meu-som/bluetooth-montado.jpg "Bluetooth")
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-08-03-Tunando-meu-som/fonte-montada.jpg "Fonte de alimentação")
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-08-03-Tunando-meu-som/projeto-montado.jpg "Projeto")
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-08-03-Tunando-meu-som/caixa-montada.jpg "Projeto")
+![placeholder](/assets/images/2018-08-03-Tunando-meu-som/bluetooth-montado.jpg "Bluetooth")
+![placeholder](/assets/images/2018-08-03-Tunando-meu-som/fonte-montada.jpg "Fonte de alimentação")
+![placeholder](/assets/images/2018-08-03-Tunando-meu-som/projeto-montado.jpg "Projeto")
+![placeholder](/assets/images/2018-08-03-Tunando-meu-som/caixa-montada.jpg "Projeto")
 
 E Voalá! Fim.
 

@@ -15,7 +15,7 @@ Enfim, o que eu precisava era construir uma distribuição linux customizada par
 
 De maneira muito sucinta, o Yocto Project é um conjunto de ferramentas para auxiliar na criação de imagens customizadas de sistemas baseados em Linux para sistemas embarcados. Baseada no [Poky](http://www.pokylinux.org/), que por sua vez foi baseada no [OpenEmbadded](http://www.openembedded.org/wiki/Main_Page).
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2016-06-30-YoctoProject/yocto-environment.png "Arquitetura do Yocto Project")
+![placeholder](/assets/images/2016-06-30-YoctoProject/yocto-environment.png "Arquitetura do Yocto Project")
 
 O sistema funciona processando instruções presentes em metadata atráves do BitBake, gerando então as imagens, e SDK's, entre outras coisas, para o Sistema final. Então, os metadata são um conjunto de receitas que descrevem a construção de cada componente do sistema e o bitbake executa essas receitas. E sim, existem várias receitas prontas, como Qt, banco de dados, Chromium, Java, Phyton, Perl, Ruby, Lua, Node.js, e por ai vai. Simples como mágica.
 

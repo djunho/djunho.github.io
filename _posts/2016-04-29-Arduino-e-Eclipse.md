@@ -21,7 +21,7 @@ Antes de sair me aventurando pela web ou pelos códigos da vida, resolvi dar uma
 
 Vale a pena dar uma analisada. Afinal, é uma interface já "amigável" e já conhecida de muitos, e vem toda configurada.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2016-04-29-EclipseArduino/printscreen_ArduinoEclipse.png "Print screen do Eclipse com plugin do Arduino, claro que rodando um Blink")
+![placeholder](/assets/images/2016-04-29-EclipseArduino/printscreen_ArduinoEclipse.png "Print screen do Eclipse com plugin do Arduino, claro que rodando um Blink")
 
 No site do plugin tem uma documentação boa e alguns videos (no mínimo engraçados envolvendo gatos) sobre o plugin. Com toda essa base, é facil botar para rodar os programas de exemplo. Lógicamente rodei um blink, quem não faria o mesmo?
 

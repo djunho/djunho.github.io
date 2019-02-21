@@ -11,7 +11,7 @@ tags:
 
 Pois é, mais um evento. Depois de participar do Maker Hacklab deste ano, venho convidar a todos para mais um evento do pessoal do [CEU](http://www.ceu.unifei.edu.br/), o Startup Weekend Maker, o único SW até então que é voltado exclusivamente para o movimento maker.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2016-08-11-swMakerUnifei/swMakerUnifei2016.png "Startup Weekend Maker Unifei 2016")
+![placeholder](/assets/images/2016-08-11-swMakerUnifei/swMakerUnifei2016.png "Startup Weekend Maker Unifei 2016")
 
 <!-- more -->
 

@@ -9,7 +9,7 @@ tags:
 
 Já faz um tempo que ando brincado com IoT, especialmente o módulo ESP8266 da Espressif. Realmente é incrivel o que esses chineses são capazes de fazer hein. Com um pequeno chip, eles conseguiram imbutir **toda** uma interface simples para uso do Wifi (802.11) e pode ser encontrado por "apenas" [U$ 5](http://pt.aliexpress.com/wholesale?catId=0&initiative_id=SB_20150919053814&SearchText=ESP8266+01 "No momento em que escrevo esse artigo"), algo simplesmente inovador!
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/ESP8266-01.jpg "Módulo modelo 01")
+![placeholder](/assets/images/ESP8266-01.jpg "Módulo modelo 01")
 
 <!-- more -->
 

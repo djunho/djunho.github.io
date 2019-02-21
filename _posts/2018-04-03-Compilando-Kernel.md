@@ -9,7 +9,7 @@ tags:
 
 Faz tempo que queria mexer mais baixo nível no kernel do linux para entender todos os conceitos aplicados no desenvolvimento dele. Eis que então há um tempo atrás recebi um e-mail de uma reunião na Unicamp sobre a criação de um grupo de estudos na Unicamp. As reuniões estão acontecendo às terças feiras, 19 horas. Mais informações sobre o grupo acesse o [gitlab](https://gitlab.com/lkcamp) e a [página do Youtube](https://www.youtube.com/channel/UCraCE6iWUcFCJSp-vmO1D3A) onde as lives estão sendo armazenadas, e junte-se a [lista de e-mail](https://lists.libreplanetbr.org/mailman/listinfo/lkcamp), onde as informações sobre as reuniões são divulgadas.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-04-03-Compilando-Kernel/tux.png "Linus Torvalds em miniatura")
+![placeholder](/assets/images/2018-04-03-Compilando-Kernel/tux.png "Linus Torvalds em miniatura")
 
 Vou descrever aqui, a atividade que foi realizada na primeira reunião. Compilar o Kernel. Isso mesmo, para você que achava que compilar o kernel era um bicho de sete cabeças, você está enganado. Existe toda uma magia negra para deixar esse processo menos traumático.
 

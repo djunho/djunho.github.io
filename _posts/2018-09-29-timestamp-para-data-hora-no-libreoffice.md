@@ -11,7 +11,7 @@ Essa semana estava precisando analisar os dados de um equipamento. Os dados eram
 
 Exportei tudo para um [arquivo CSV](https://pt.wikipedia.org/wiki/Comma-separated_values). E então me deparei que observar o dado do UNIX timestamp da maneira cru é algo não muito intuítivo. Então fiquei imaginando como poderia transformar aquele número gigante em algo mais natural.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-09-29-timestamp-para-datahora-no-libreoffice/ts-para-datahora.png "Conversão")
+![placeholder](/assets/images/2018-09-29-timestamp-para-datahora-no-libreoffice/ts-para-datahora.png "Conversão")
 
 <!-- more -->
 
@@ -39,12 +39,12 @@ Sendo que a célula A2 contém o valor do UNIX timestamp. Note que, caso mude o 
 
 Para visualizar o dado no formato de Data Hora, basta formatar a célula em que foi realizada a converção para Data Hora ou da forma que lhe for melhor.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-09-29-timestamp-para-datahora-no-libreoffice/visualizacao.png "Visualização")
+![placeholder](/assets/images/2018-09-29-timestamp-para-datahora-no-libreoffice/visualizacao.png "Visualização")
 
 
 # Configuração
 
 Nas configurações do LibreOffice tem como alterar o dia 0 do timestamp dele.
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/2018-09-29-timestamp-para-datahora-no-libreoffice/configuracao.png "Configuração")
+![placeholder](/assets/images/2018-09-29-timestamp-para-datahora-no-libreoffice/configuracao.png "Configuração")
 

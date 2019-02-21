@@ -9,7 +9,7 @@ tags:
 
 > "No final das contas, sou um professor. É assim que eu realmente me vejo" Jorge Paulo Lemann
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/livro_sonho_grande.jpg?raw=true "Capa do livro")
+![placeholder](/assets/images/livro_sonho_grande.jpg?raw=true "Capa do livro")
 
 O sonho de muitas pessoas é fazer algo grandioso e que seja duradouro. Não há nada de mal nisso, afinal é basicamente um sonho que todos temos quando crianças. O sonho de nos tornarmos super heróis esta contido no âmbito de toda criança que quer fazer algo de grande na vida. Salvar donzelas de castelos, brigar e ganhar do valentão da escola, e ainda de cara, fazer tudo contando piadas, no estilo homem-aranha. Os três homens que o livro "Sonho grande", de Cristiane Correa, conta, não conseguiram ser heróis. Sem poderes e grandes batalhas com vilões, eles fizeram algo diferente, sonham com uma grande empresa que seja sólida e duradoura e que possa causar impacto nas pessoas de forma a aumentar seu potencial. E eles a construíram <s>basicamente ainda em processo</s>.
 

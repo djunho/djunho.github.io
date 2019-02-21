@@ -17,7 +17,7 @@ Resolvi com a impressora 3D.
 
 <!-- more -->
 
-No [LHC](http://lhc.net.br/) a durante o ano de 2018 ocorreu a oficina de [FreeCad](https://freecadweb.org/), um software de modelagem 3D. É um software muito completo e com diversas bancadas para projetos e com várias ferramentas internas. A oficina foi ministrada pelo Cláudio "Patola" Sampaio, visando apresentar os paradigmas essenciais do software, desmistificando e descomplicando para aqueles que já utilizaram outro software de modelagem 3D e desejam migrar para o FreeCAD, bem como apresenta o panorama geral aos iniciantes.
+No [LHC](http://lhc.net.br/), durante o ano de 2018, ocorreu a oficina de [FreeCad](https://freecadweb.org/), um software de modelagem 3D. É um software muito completo e com diversas bancadas para projetos e várias ferramentas internas. A oficina foi ministrada pelo Cláudio "Patola" Sampaio, visando apresentar os paradigmas essenciais do software, desmistificando e descomplicando para aqueles que já utilizaram outro software de modelagem 3D e desejam migrar para o FreeCAD, bem como apresentou o panorama geral aos iniciantes.
 
 Sobre impressora 3D, recomendo o livro escrito pelo Patola. ["Guia maker de Impressão 3D"](https://github.com/Patola/ebook/releases).
 
