@@ -12,6 +12,7 @@ Faz tempo que estava para restaurar e dar um _up_ em duas caixas de som das anti
 O resultado final ficou bem legal. Vejam abaixo.
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/aMsXKl-Om_w" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 <!-- more -->
 
