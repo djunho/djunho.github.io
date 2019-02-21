@@ -20,4 +20,4 @@ Obrigado por ler!
 
 >Links legais:
 >
->[Monografia do TCC](https://github.com/djunho/djunho.github.io/raw/master/Downloads/Monografia%20TCC.pdf "vish!")
+>[Monografia do TCC](/assets/files/Monografia%20TCC.pdf "vish!")
