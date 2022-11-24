@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Daniel Junho
-tagline:          ''
-description:      'Um novo projeto dentro de tantas ideias.'
+tagline:          'Blog'
+description:      'A new project between so many ideas.'
 url:              http://danieljunho.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -28,8 +28,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
-# Custom vars
-#version:            3.5.3
+# Sidebar link settings
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
@@ -50,5 +49,5 @@ social-icons:
   url: https://github.com/djunho
   class: github
 - title: LinkedIn
-  url: https://br.linkedin.com/pub/daniel-junho/24/7b7/249
+  url: https://www.linkedin.com/in/djunho/
   class: linkedin

@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Sobre
+title: About
 sidebar_link: true
 ---
 
-![placeholder](https://raw.githubusercontent.com/djunho/djunho.github.io/master/Imagens/perfil.jpg?raw=true "Cuidado!")
+![placeholder](/assets/images/perfil.jpg?raw=true "Cuidado!")
 
 <p class="message">
-  Sempre quis fazer algo legal. Quem sabe começa por aqui! =D
+  I always wanted to do something nice. Who knows, it will start here =D
 </p>
 
-Gosta de cinema, musica, tecnologia e de aventuras, uma combinação perigosa nos dias de hoje.
+I like cinema, music, technology, and adventures. It is a dangerous mixture nowadays.
 
-Sonhador, apesar de nunca se lembrar deles quando acorda.
+A dreamer, although I never remember them after wakening up.
 
-Trabalha na área de Sistemas Embarcados e assim quer se manter por um bom tempo, ou pelo menos até ter um overflow.
+I work with Embedded Systems. And I want to keep myself this way for a while. Or at least until hitting an overflow.
 
-Obrigado por ler!
+Thanks
 
->Links legais:
+>Nice links:
 >
->[Monografia do TCC](/assets/files/Monografia%20TCC.pdf "vish!")
+>[Undergraduate thesis](/assets/files/Monografia%20TCC.pdf "vish!")
